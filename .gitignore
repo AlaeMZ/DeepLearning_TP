@@ -11,3 +11,4 @@ rapport_exercice_1.tex
 rapport_final.tex
 *.tex
 *.md
+!README.md
