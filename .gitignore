@@ -4,3 +4,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 torchinfo_unet.txt
+Local_Execution_Steps.md
+Rapport_Final_PreRempli.md
+TP_Guide_Solution_Complet.md
+rapport_exercice_1.tex
+rapport_final.tex
+*.tex
+*.md
