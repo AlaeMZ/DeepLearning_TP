@@ -1,0 +1,6 @@
+oxford-iiit-pet/
+*.pth
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+torchinfo_unet.txt
